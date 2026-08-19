@@ -20,8 +20,8 @@ A Decky plugin that streamlines the installation of **lsfg-vk** ([Lossless Scali
 
 ## Installation
 
-1. **Download the plugin** from the [releases tab](https://github.com/xXJSONDeruloXx/decky-lsfg-vk/releases)
-   - Download the "decky-lsfg-vk.zip" file to your Steam Deck
+1. **Download the complete Chinese plugin** from this repository's [releases tab](../../releases)
+   - Download `Decky.LSFG-VK-zh-v0.12.8.zip` to your Steam Deck
 2. **Install manually through Decky**:
    - In Game Mode, go to the settings cog in the top right of the Decky Loader tab
    - Enable "Developer Mode"
